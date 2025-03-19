@@ -8,7 +8,7 @@ Poppy Playtime es una saga de terror desarrollada por Mob Entertainment. El jueg
 ![image](https://github.com/user-attachments/assets/bc850fd7-319b-4852-ab29-d8d42e5d8af2)
 
 **Definición directa**:  
-Poppy Playtime (2021) es un videojuego episódico de supervivencia horror. Los jugadores usan el GrabPack - mochila con manos extensibles - para resolver puzles y escapar de juguetes asesinos.
+Poppy Playtime Chapter 6 es un videojuego episódico de supervivencia horror. Los jugadores usan el GrabPack - mochila con manos extensibles - para resolver puzles y escapar de juguetes asesinos.
 
 ### ¿Por qué triunfa en México?  
 - Ofrece sustos psicológicos, no solo jumpscares  
@@ -17,7 +17,7 @@ Poppy Playtime (2021) es un videojuego episódico de supervivencia horror. Los j
 
 *Personalmente, la primera vez que escuché el chirrido de Huggy Wuggy...apagué el teléfono. No soy orgulloso.*
 
-## Visión general de la saga: De Chapter 1 al 4  
+## Visión general de la saga: De Chapter 1 al 6  
 Cada entrega expande el lore de Playtime Co. Esta tabla compara los capítulos:
 
 | Chapter | Escenario principal | Enemigo icónico | Novedad mecánica |
@@ -54,7 +54,7 @@ Mob Entertainment no ha confirmado oficialmente el Chapter 6. Sin embargo, la co
 Aunque no hay port oficial completo, existen alternativas:
 
 **Opciones verificadas:**  
-- **Play Store**: Chapters 1-3 disponibles  
+- **Play Store**: Chapters 1-6 disponibles  
 - **Cloud Gaming**: Xbox Cloud permite jugar la versión PC en móvil  
 - **Emuladores**: PPSSPP + versión PSP (requiere BIOS legal)  
 
